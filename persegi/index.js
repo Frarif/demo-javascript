@@ -2,7 +2,7 @@ const sideValue = parseInt( prompt ('Enter side value of rectangle: '))
 
 // calculate area of rectangle
 
-const roundValue = sideValue + sideValue + sideValue
+const roundValue = 4 * sideValue
 const areaValue = sideValue * sideValue
 
 console.log (
