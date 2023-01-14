@@ -23,6 +23,11 @@ body {
   padding-left: 100px;
 }
 
+.logo a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
 .logo p {
   font-size: 30px;
   font-weight: 600;
