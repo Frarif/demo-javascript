@@ -10,5 +10,5 @@ console.log (
 )
 
 console.log (
-    `The round of the rectangle is ${perimeterValue}`
+    `The perimeter of the rectangle is ${perimeterValue}`
 )
