@@ -1,9 +1,13 @@
 const baseValue = parseInt(prompt("Enter base value of triangle: "));
-const highValue = parseInt(prompt("Enter high value of triangle: "));
+const heightValue = parseInt(prompt("Enter height value of triangle: "));
+
+// calculate perimeter
+// P = a + b + c
+const perimeterValue = baseValue * 3;
 
 // calculate area
-const perimeterValue = baseValue * 3;
-const areaValue = (baseValue * highValue) / 2;
+// A = (h * b) / 2
+const areaValue = (baseValue * heightValue) / 2;
 
 console.log(`The area value of the triangle is ${areaValue}`);
 
