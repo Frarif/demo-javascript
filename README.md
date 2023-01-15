@@ -1,3 +1,3 @@
-# DEMO JAVASCRIPT
+# Demo Javascript
 
-It's Javascript demo for two dimentional figure
+It's JavaScript demo for two dimensional figure
